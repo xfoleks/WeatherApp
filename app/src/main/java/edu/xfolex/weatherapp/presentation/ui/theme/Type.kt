@@ -1,4 +1,4 @@
-package edu.xfolex.weatherapp.ui.theme
+package edu.xfolex.weatherapp.presentation.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
