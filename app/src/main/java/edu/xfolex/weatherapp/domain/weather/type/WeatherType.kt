@@ -1,4 +1,4 @@
-package edu.xfolex.weatherapp.domain.weather
+package edu.xfolex.weatherapp.domain.weather.type
 
 import androidx.annotation.DrawableRes
 import edu.xfolex.weatherapp.R
