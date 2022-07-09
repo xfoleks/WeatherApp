@@ -1,4 +1,4 @@
-package edu.xfolex.weatherapp.presentation
+package edu.xfolex.weatherapp.presentation.activity
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
